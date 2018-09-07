@@ -9,7 +9,7 @@ clustering
 
 attribute selection
 
-The foloder will be updated as an more advance workflow will be available.
+The folder will be updated as an more advance workflow will be available.
 
 Audiance are invited to include detailes explaination of these workflow when they find useful.
 
